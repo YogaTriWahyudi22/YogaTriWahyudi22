@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoga Tri Wahyudi</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yoga Tri Wahyudi</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <h3 align="center">My repository is locked because there are many projects</h3>
 
