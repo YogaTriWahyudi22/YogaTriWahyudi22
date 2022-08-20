@@ -3,7 +3,7 @@
 <h3 align="center">My repository is locked because there are many projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogatriwahyudi22&label=Profile%20views&color=0e75b6&style=flat" alt="yogatriwahyudi22" /> </p>
-<p> Leader Of Rise Development : https://github.com/RiseDevTeam
+<p> <b> Leader Of Rise Development </b> : https://github.com/RiseDevTeam
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rise.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rise.dev" height="30" width="40" /></a>
